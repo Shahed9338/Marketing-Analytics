@@ -45,19 +45,24 @@ An online retail business is facing reduced customer engagement and conversion r
 - **Positive sentiment dominates with 275 reviews**, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
 
 ## Data Model View
+
 ![image_alt](https://github.com/Shahed9338/Marketing-Analytics/blob/95146155e7b7b68842ce4fcfcf688517abcb59db/Data%20Model.png)
 ## Dashboard Overview
 
 **1\. Overview:**
+
 ![image_alt](https://github.com/Shahed9338/Marketing-Analytics/blob/95146155e7b7b68842ce4fcfcf688517abcb59db/Overview.png)
 
 **2\. Conversion Details:**
+
 ![image_alt](https://github.com/Shahed9338/Marketing-Analytics/blob/95146155e7b7b68842ce4fcfcf688517abcb59db/Conversion%20Details.png)
 
 
 **3\. Social Media Details:**
+
 ![image_alt](https://github.com/Shahed9338/Marketing-Analytics/blob/95146155e7b7b68842ce4fcfcf688517abcb59db/Social%20Media%20Details.png)
 
 **4\. Customer Review Details:**
+
 ![image_alt](https://github.com/Shahed9338/Marketing-Analytics/blob/95146155e7b7b68842ce4fcfcf688517abcb59db/Customer%20Review%20Details.png)
 
